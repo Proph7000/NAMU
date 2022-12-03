@@ -12,5 +12,5 @@
   - Google fonts;
 
 # Implemented features:
-  - adaptive design;
+  - responsive layout;
   - switch language with JS.
